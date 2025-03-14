@@ -131,30 +131,36 @@
     </mxGraphModel>
   </diagram>
   <diagram id="x3wchXndsXh5wcxZfgMt" name="Página-2">
-    <mxGraphModel dx="63902" dy="44979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="108560" dy="76542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HNHx5nUEhZeaWCpCJhk9-1" value="Sistema de Reservas de Hotel" style="swimlane" vertex="1" parent="1">
-          <mxGeometry x="540" y="295" width="350" height="550" as="geometry" />
+          <mxGeometry x="530" y="295" width="240" height="550" as="geometry" />
         </mxCell>
         <mxCell id="HNHx5nUEhZeaWCpCJhk9-2" value="Fazer Reserva" style="ellipse" vertex="1" parent="HNHx5nUEhZeaWCpCJhk9-1">
-          <mxGeometry x="112.5" y="25" width="120" height="40" as="geometry" />
+          <mxGeometry x="60" y="30" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HNHx5nUEhZeaWCpCJhk9-3" value="Cancelar Reserva" style="ellipse" vertex="1" parent="HNHx5nUEhZeaWCpCJhk9-1">
-          <mxGeometry x="112.5" y="75" width="120" height="40" as="geometry" />
+          <mxGeometry x="55" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HNHx5nUEhZeaWCpCJhk9-4" value="Consultar Disponibilidade" style="ellipse" vertex="1" parent="HNHx5nUEhZeaWCpCJhk9-1">
-          <mxGeometry x="90" y="125" width="160" height="40" as="geometry" />
+          <mxGeometry x="37.5" y="125" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HNHx5nUEhZeaWCpCJhk9-5" value="Gerenciar Reserva" style="ellipse" vertex="1" parent="HNHx5nUEhZeaWCpCJhk9-1">
-          <mxGeometry x="100" y="175" width="140" height="40" as="geometry" />
+          <mxGeometry x="50" y="185" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HNHx5nUEhZeaWCpCJhk9-22" value="Fazer Check in" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="HNHx5nUEhZeaWCpCJhk9-1">
-          <mxGeometry x="106.25" y="272" width="135" height="35" as="geometry" />
+          <mxGeometry x="55" y="285" width="135" height="35" as="geometry" />
         </mxCell>
         <mxCell id="HNHx5nUEhZeaWCpCJhk9-23" value="Confirmar Reserva" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="HNHx5nUEhZeaWCpCJhk9-1">
-          <mxGeometry x="100" y="225" width="147.5" height="35" as="geometry" />
+          <mxGeometry x="50" y="237" width="147.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="HNHx5nUEhZeaWCpCJhk9-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="HNHx5nUEhZeaWCpCJhk9-1" target="HNHx5nUEhZeaWCpCJhk9-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-70" y="105" as="sourcePoint" />
+            <mxPoint x="50" y="95" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HNHx5nUEhZeaWCpCJhk9-10" value="Sistema de Pagamento" style="ellipse" vertex="1" parent="1">
           <mxGeometry x="1070" y="530" width="100" height="40" as="geometry" />
@@ -178,6 +184,18 @@
         </mxCell>
         <mxCell id="HNHx5nUEhZeaWCpCJhk9-7" value="Emitir Comprovante" style="ellipse" vertex="1" parent="1">
           <mxGeometry x="1120" y="560" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="HNHx5nUEhZeaWCpCJhk9-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="HNHx5nUEhZeaWCpCJhk9-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="400" as="sourcePoint" />
+            <mxPoint x="560" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HNHx5nUEhZeaWCpCJhk9-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="400" as="sourcePoint" />
+            <mxPoint x="580" y="380" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
