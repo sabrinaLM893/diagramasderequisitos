@@ -52,19 +52,19 @@
         <mxCell id="17" value="Diagrama de Caso de Uso" style="rounded=1;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
           <mxGeometry x="50" y="250" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="19" value="Caso de Uso: Cadastrar Usuário" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="19" value="&amp;nbsp;Cadastrar Usuário" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="300" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="20" value="Caso de Uso: Editar Usuário" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="20" value="Editar Usuário" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="350" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="21" value="Caso de Uso: Excluir Usuário" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="21" value="Excluir Usuário" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="400" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="22" value="Caso de Uso: Listar Usuários" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="22" value="&amp;nbsp;Listar Usuários" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="450" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="23" value="Caso de Uso: Visualizar Usuário" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="23" value="Visualizar Usuário" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="500" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="19" edge="1">
