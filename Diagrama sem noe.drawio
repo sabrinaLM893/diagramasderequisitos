@@ -448,7 +448,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gIX4RohjAooktiIIL-Kl" name="Página-5">
-    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -545,10 +545,61 @@
     </mxGraphModel>
   </diagram>
   <diagram id="voikylvz0mgc29WbK31U" name="Página-6">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1290" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ydiWlkQnHV-vw1rcl7RX-1" value="Cliente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="50" y="150" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ydiWlkQnHV-vw1rcl7RX-2" value="Vendedor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ydiWlkQnHV-vw1rcl7RX-3" value="Administrador" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="50" y="450" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ydiWlkQnHV-vw1rcl7RX-4" value="Buscar Produtos" style="ellipse;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ydiWlkQnHV-vw1rcl7RX-5" value="Adicionar ao Carrinho" style="ellipse;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="180" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ydiWlkQnHV-vw1rcl7RX-6" value="Finalizar Compra" style="ellipse;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ydiWlkQnHV-vw1rcl7RX-7" value="Cadastrar Produto" style="ellipse;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="340" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ydiWlkQnHV-vw1rcl7RX-8" value="Atualizar Estoque" style="ellipse;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="420" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ydiWlkQnHV-vw1rcl7RX-9" value="Gerir Promoções" style="ellipse;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="500" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ydiWlkQnHV-vw1rcl7RX-10" value="Gerar Relatórios" style="ellipse;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="580" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ydiWlkQnHV-vw1rcl7RX-11" edge="1" parent="1" source="ydiWlkQnHV-vw1rcl7RX-1" target="ydiWlkQnHV-vw1rcl7RX-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ydiWlkQnHV-vw1rcl7RX-12" edge="1" parent="1" source="ydiWlkQnHV-vw1rcl7RX-1" target="ydiWlkQnHV-vw1rcl7RX-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ydiWlkQnHV-vw1rcl7RX-13" edge="1" parent="1" source="ydiWlkQnHV-vw1rcl7RX-1" target="ydiWlkQnHV-vw1rcl7RX-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ydiWlkQnHV-vw1rcl7RX-14" edge="1" parent="1" source="ydiWlkQnHV-vw1rcl7RX-2" target="ydiWlkQnHV-vw1rcl7RX-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ydiWlkQnHV-vw1rcl7RX-15" edge="1" parent="1" source="ydiWlkQnHV-vw1rcl7RX-2" target="ydiWlkQnHV-vw1rcl7RX-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ydiWlkQnHV-vw1rcl7RX-16" edge="1" parent="1" source="ydiWlkQnHV-vw1rcl7RX-3" target="ydiWlkQnHV-vw1rcl7RX-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ydiWlkQnHV-vw1rcl7RX-17" edge="1" parent="1" source="ydiWlkQnHV-vw1rcl7RX-3" target="ydiWlkQnHV-vw1rcl7RX-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
