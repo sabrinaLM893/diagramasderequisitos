@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3" pages="2">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.3" pages="3">
   <diagram name="Página-1" id="id_da_pagina">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -319,6 +319,59 @@
         </mxCell>
         <mxCell id="zimQasxmUKku0HDGsWZ8-1" value="Sistema de Farmácia" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="-180" width="280" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KJu4ZGRdEa2ZzpFep1eS" name="Página-4">
+    <mxGraphModel dx="521" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="R60_lvsJMazVJiR2fB-j-1" value="Aluno" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="60" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R60_lvsJMazVJiR2fB-j-2" value="Instrutor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R60_lvsJMazVJiR2fB-j-4" value="Se matricula" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" width="146" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R60_lvsJMazVJiR2fB-j-5" value="&lt;div&gt;Agendar Aulas&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="50" width="138" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R60_lvsJMazVJiR2fB-j-6" value="&lt;div&gt;Consultar Horários&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="100" width="138" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="R60_lvsJMazVJiR2fB-j-7" value="Cancelar Agendamento" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="180" width="174" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R60_lvsJMazVJiR2fB-j-10" value="Visualizar Treino" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="292" y="140" width="148" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R60_lvsJMazVJiR2fB-j-11" value="&lt;div&gt;Criar Treino&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="290" width="149" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R60_lvsJMazVJiR2fB-j-12" value="&lt;div&gt;Registrar Frequência&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="281" y="350" width="158" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R60_lvsJMazVJiR2fB-j-15" value="Consultar Alunos" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288.75" y="410" width="154.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="R60_lvsJMazVJiR2fB-j-16" value="Gerente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="585" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="R60_lvsJMazVJiR2fB-j-17" value="&lt;div&gt;Gerenciar Planos&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285" y="530" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="R60_lvsJMazVJiR2fB-j-18" value="&lt;div&gt;Gerenciar Pagamentos&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="285.5" y="587.5" width="151" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="R60_lvsJMazVJiR2fB-j-19" value="&lt;div&gt;Gerenciar Alunos (adicionar, editar, remover)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="645" width="162" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="R60_lvsJMazVJiR2fB-j-20" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Gerar Relatórios&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="283.31" y="720" width="165.37" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
