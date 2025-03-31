@@ -786,7 +786,7 @@
           <mxGeometry y="208" width="200" height="82" as="geometry" />
         </mxCell>
         <mxCell id="CRebP4ZZjJH7RpgOgbwr-1" value="Cliente" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="334" y="70" width="190" height="250" as="geometry">
+          <mxGeometry x="370" y="60" width="190" height="250" as="geometry">
             <mxRectangle x="334" y="70" width="80" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
