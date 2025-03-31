@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.1" pages="6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.2.1" pages="7">
   <diagram name="Página-1" id="id_da_pagina">
     <mxGraphModel dx="1050" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -448,7 +448,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="gIX4RohjAooktiIIL-Kl" name="Página-5">
-    <mxGraphModel dx="1283" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1324" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -541,8 +541,10 @@
         <mxCell id="BzUAx8nPfx6_7DsmxAkr-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="jFdlNUq5dUJGZVz98nCX-24" target="jFdlNUq5dUJGZVz98nCX-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="EhIfpe4xf9LGhnJvj2mH-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.021;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jFdlNUq5dUJGZVz98nCX-21" target="jFdlNUq5dUJGZVz98nCX-26">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="NElZ2E62twSjRWcFOf6S-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jFdlNUq5dUJGZVz98nCX-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="650" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
@@ -966,6 +968,26 @@
             <mxPoint x="890" y="920" as="sourcePoint" />
             <mxPoint x="940" y="870" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="2S9CSdaoyg2j0CAdQrhQ" name="Página-8">
+    <mxGraphModel dx="1324" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pxUnq-RSbqBkWZv-Q09i-1" value="Usuário" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="70" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="pxUnq-RSbqBkWZv-Q09i-2" value="&lt;span id=&quot;docs-internal-guid-6da4fb64-7fff-79e3-4a09-93a02d0d199a&quot;&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, monospace; color: rgb(26, 28, 30); background-color: rgb(237, 238, 241); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&amp;nbsp;&amp;nbsp;ID: &lt;/span&gt;&lt;span style=&quot;font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, monospace; color: rgb(215, 58, 73); background-color: rgb(237, 238, 241); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;int&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, monospace; color: rgb(26, 28, 30); background-color: rgb(237, 238, 241); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&amp;nbsp;&amp;nbsp;nome: &lt;/span&gt;&lt;span style=&quot;font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, monospace; color: rgb(215, 58, 73); background-color: rgb(237, 238, 241); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;string&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, monospace; color: rgb(26, 28, 30); background-color: rgb(237, 238, 241); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&amp;nbsp;&amp;nbsp;login: &lt;/span&gt;&lt;span style=&quot;font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, monospace; color: rgb(215, 58, 73); background-color: rgb(237, 238, 241); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;string&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, monospace; color: rgb(26, 28, 30); background-color: rgb(237, 238, 241); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&amp;nbsp;&amp;nbsp;senha: &lt;/span&gt;&lt;span style=&quot;font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, monospace; color: rgb(215, 58, 73); background-color: rgb(237, 238, 241); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;string&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, monospace; color: rgb(26, 28, 30); background-color: rgb(237, 238, 241); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&amp;nbsp;&amp;nbsp;email: &lt;/span&gt;&lt;span style=&quot;font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, monospace; color: rgb(215, 58, 73); background-color: rgb(237, 238, 241); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;string&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;line-height:1.38;margin-top:0pt;margin-bottom:0pt;&quot; dir=&quot;ltr&quot;&gt;&lt;span style=&quot;font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, monospace; color: rgb(26, 28, 30); background-color: rgb(237, 238, 241); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&amp;nbsp;&amp;nbsp;perfil: &lt;/span&gt;&lt;span style=&quot;font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, monospace; color: rgb(215, 58, 73); background-color: rgb(237, 238, 241); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;string&lt;/span&gt;&lt;span style=&quot;font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, monospace; color: rgb(26, 28, 30); background-color: rgb(237, 238, 241); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt; (Cliente, Atendente, Gerente, Administrador)&lt;/span&gt;&lt;/p&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10pt; font-family: &amp;quot;Courier New&amp;quot;, monospace; color: rgb(26, 28, 30); background-color: rgb(237, 238, 241); font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-variant-position: normal; font-variant-emoji: normal; vertical-align: baseline; white-space-collapse: preserve;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="pxUnq-RSbqBkWZv-Q09i-1">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="pxUnq-RSbqBkWZv-Q09i-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="pxUnq-RSbqBkWZv-Q09i-1">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="pxUnq-RSbqBkWZv-Q09i-4" value="+ method(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="pxUnq-RSbqBkWZv-Q09i-1">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
