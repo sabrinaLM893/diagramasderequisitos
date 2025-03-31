@@ -769,7 +769,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="2S9CSdaoyg2j0CAdQrhQ" name="Página-8">
-    <mxGraphModel dx="554" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1764" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -824,7 +824,7 @@
           <mxGeometry y="138" width="210" height="72" as="geometry" />
         </mxCell>
         <mxCell id="CRebP4ZZjJH7RpgOgbwr-13" value="Venda" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="420" width="230" height="310" as="geometry" />
+          <mxGeometry x="380" y="420" width="230" height="290" as="geometry" />
         </mxCell>
         <mxCell id="CRebP4ZZjJH7RpgOgbwr-14" value="+ID: int&lt;div&gt;+dataVenda: Date&lt;/div&gt;&lt;div&gt;+valorTotal: decimal&lt;/div&gt;&lt;div&gt;+atendente: Usuario&lt;/div&gt;&lt;div&gt;+cliente: cliente&lt;/div&gt;&lt;div&gt;+itensVenda: list&lt;/div&gt;&lt;div&gt;+formaPagamento: string&lt;/div&gt;&lt;div&gt;+desconto: decimal&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CRebP4ZZjJH7RpgOgbwr-13">
           <mxGeometry y="26" width="230" height="124" as="geometry" />
@@ -833,7 +833,7 @@
           <mxGeometry y="150" width="230" height="8" as="geometry" />
         </mxCell>
         <mxCell id="CRebP4ZZjJH7RpgOgbwr-16" value="+AdicinarItem(produto: Produto, quantidade: int): void&lt;div&gt;+RemoverItem(itemVenda); void&lt;/div&gt;&lt;div&gt;+CalcularValorTOtal(): decimal&lt;/div&gt;&lt;div&gt;+FinalizarVenda(formaPagamento:string): bool&lt;/div&gt;&lt;div&gt;+CancelarVenda(): bool&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="CRebP4ZZjJH7RpgOgbwr-13">
-          <mxGeometry y="158" width="230" height="152" as="geometry" />
+          <mxGeometry y="158" width="230" height="132" as="geometry" />
         </mxCell>
         <mxCell id="CRebP4ZZjJH7RpgOgbwr-18" value="ItemVenda" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="410" width="220" height="200" as="geometry" />
